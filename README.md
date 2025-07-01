@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-From orchestrating Michelin-worthy menus to architecting responsive web apps, I bring the precision, creativity, and hustle of a top chef into tech. After 8 years leading a busy kitchen brigade, I dove headfirst into code—mastering JavaScript, TypeScript, React, Node.js & cloud-native workflows. Now I’m on a mission to blend culinary artistry with software craftsmanship, building elegant, scalable solutions that delight users as much as a perfectly plated dish.
+From orchestrating Michelin-worthy menus to architecting responsive web apps, I bring the precision, creativity, and hustle of a top chef into tech. After 12 years leading a busy highend kitchens, I dove headfirst into code, mastering JavaScript, TypeScript, React, Node.js, java, Spring Boot and more. Now I’m on a mission to blend culinary artistry with software craftsmanship, building elegant, scalable solutions that delight users as much as a perfectly plated dish.
 
 ---
 
